@@ -1,0 +1,7 @@
+com\example\UserRepository.class
+com\example\MyDetails.class
+com\example\MyDetailsService.class
+com\example\User.class
+com\example\SpringSecurityJpaApplication.class
+com\example\HomeResource.class
+com\example\SecurityConfiguration.class
